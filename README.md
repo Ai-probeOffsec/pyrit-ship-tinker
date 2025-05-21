@@ -1,5 +1,4 @@
 # Introduction 
-This repository contains PyRIT prototype to enable the open source [PyRIT](https://github.com/Azure/PyRIT) toolkit to be used as an API for integrating into other tooling. We welcome suggestions and feedback, and we intend to keep this repository updated. However, at this point this is a prototype and passion project for our team and have no roadmap or funding to maintain this as an actual product.
 
 Our pyrit-ship-tinker is a specialized fork for the custom target cookbooks implimentation of Microsoft's PyRIT-Ship project, transformed into a Burp Suite extension for automated AI security testing by microsoft. It enables security researchers to conduct automated prompt injection testing through a custom extension-generated payload system.
 
@@ -17,6 +16,8 @@ The repository currently contains:
 
 # Demo running BURP Suite extension
 [Attack Gandalf with PyRIT Ship](/docs/burp_gandalf_demo.md)
+
+[Our Demostration of Attack Gandalf with PyRIT Ship](https://youtu.be/_WDM8TyKByA?si=YGQhfdfYDl7y-Opx) 
 
 # TODO
 We have code close to ready to support:
