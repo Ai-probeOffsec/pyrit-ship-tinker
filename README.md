@@ -16,7 +16,7 @@ The repository currently contains:
 
 # Demo running BURP Suite extension
 [Attack Gandalf with PyRIT Ship](/docs/burp_gandalf_demo.md)
-Youtube : [Our Demostration of Attack Gandalf with PyRIT Ship](https://youtu.be/_WDM8TyKByA?si=YGQhfdfYDl7y-Opx) 
+[Our Demostration of Attack Gandalf with PyRIT Ship](https://youtu.be/_WDM8TyKByA?si=YGQhfdfYDl7y-Opx) 
 
 ## Contributing
 
