@@ -1,8 +1,8 @@
 # Introduction 
 
-Our pyrit-ship-tinker is a specialized fork for the Microsoft's PyRIT-Ship project, which has exposed a few PyRIT components through a flask app and then fed into a Burp Suite extension for automated AI security testing using BUrp Suite. It enables security researchers to conduct automated prompt injection testing through a custom extension-generated payload system.
+Our pyrit-ship-tinker is a research fork for the Microsoft's PyRIT-Ship project, which has originally exposed a few PyRIT components through a flask app and then are being consumed by a Burp Suite extension for automated AI security testing using Burp Suite. It enables security researchers to conduct automated prompt injection testing through a custom extension-generated payload system.
 
-This is a project fork for AI ProbeOffSec community (https://discord.gg/FsN225wC), for exploring future additions to the exposed PyRIT components and adding support for the Burp extension.
+This is a project fork for AI ProbeOffSec community (https://discord.gg/FsN225wC), for exploring future additions to the exposed PyRIT components and adding support for the even more Burp components.
 
 This project extends PyRIT's capabilities by integrating Azure OpenAI for intelligent prompt generation and mutation, providing a streamlined workflow for testing using burpsuite.
 
