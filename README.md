@@ -16,20 +16,7 @@ The repository currently contains:
 
 # Demo running BURP Suite extension
 [Attack Gandalf with PyRIT Ship](/docs/burp_gandalf_demo.md)
-
-[Our Demostration of Attack Gandalf with PyRIT Ship](https://youtu.be/_WDM8TyKByA?si=YGQhfdfYDl7y-Opx) 
-
-# TODO
-We have code close to ready to support:
-
-- Using Entra ID auth for Azure OpenAI (PyRIT supports this, but PyRIT Ship only uses API key at the moment)
-- Using other endpoints besides Azure OpenAI (PyRIT supports this, we just need to add this to PyRIT Ship)
-- Prompt generation conversation history
-
-Wishlist:
-- More PyRIT features in the API
-- [Playwright](https://playwright.dev/) integration to support test automation using PyRIT Ship / PyRIT
-
+Youtube : [Our Demostration of Attack Gandalf with PyRIT Ship](https://youtu.be/_WDM8TyKByA?si=YGQhfdfYDl7y-Opx) 
 
 ## Contributing
 
